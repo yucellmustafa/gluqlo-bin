@@ -10,7 +10,7 @@ First, install build-time dependencies (Ubuntu/Debian):
 
 for Fedora:
 
-`sudo dnf install g++ sdl12-compat-devel SDL_ttf-devel SDL_gfx-devel`
+`sudo dnf install g++ SDL_ttf-devel SDL_gfx-devel`
 
 Then compile and install as usual:
 
